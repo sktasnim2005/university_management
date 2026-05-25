@@ -124,6 +124,8 @@ university_management/
 
 ## 🗄️ Database Schema
 
+
+![Database Schema](docs/schema.png)
 ```
 departments ──┬── students ──┬── enrollments ──┬── grades
               │               │                 └── attendance
