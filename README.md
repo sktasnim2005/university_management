@@ -245,12 +245,4 @@ Queries are scoped at the SQL level based on the logged-in user's role and `ref_
 - Live Demo: [universitymanagement.infinityfree.me](https://universitymanagement.infinityfree.me/login)
 - Built as a DBMS course project
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> ⭐ If you found this project helpful, please give it a star on GitHub!
