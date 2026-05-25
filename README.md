@@ -52,7 +52,7 @@ A full-stack **University Management System** built with pure PHP, MySQL, and va
 
 ### 🎯 Grade Management
 - Auto grade calculation from marks (A+ to F)
-- GPA points system (4.00 scale)
+- CGPA points system (4.00 scale)
 - Faculty and admin can assign/update grades
 - Students can view their own grades only
 
