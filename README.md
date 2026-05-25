@@ -88,7 +88,7 @@ A full-stack **University Management System** built with pure PHP, MySQL, and va
 | Icons | Font Awesome 6 |
 | DB Tool | MySQL Workbench |
 | Dev Environment | VS Code, macOS M5 |
-| Hosting | InfinityFree |
+| Hosting | localhost & InfinityFree |
 
 ---
 
